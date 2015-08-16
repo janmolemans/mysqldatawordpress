@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+wp_usermeta.ibd
+wp_options.ibd
+wp_postmeta.ibd
+wp_terms.ibd
+wp_usermeta.ibd
+wp_options.ibd
+wp_posts.ibd
+wp_posts.ibd
+wp_users.ibd
+wp_term_relationships.ibd
+wp_term_taxonomy.ibd
